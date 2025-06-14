@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-31)
+## Unreleased (2025-06-14)
+
+<section class="features">
+
+### Features
+
+-   [`92ef3fd`](https://github.com/stdlib-js/stdlib/commit/92ef3fd22836e7f55affb0e86a4e36df285a6e37) - add C ndarray interface and refactor implementation for `stats/base/dvarm` [(#7269)](https://github.com/stdlib-js/stdlib/pull/7269)
+
+</section>
+
+<!-- /.features -->
 
 <section class="issues">
 
@@ -24,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`92ef3fd`](https://github.com/stdlib-js/stdlib/commit/92ef3fd22836e7f55affb0e86a4e36df285a6e37) - **feat:** add C ndarray interface and refactor implementation for `stats/base/dvarm` [(#7269)](https://github.com/stdlib-js/stdlib/pull/7269) _(by Gururaj Gurram, Athan Reines, stdlib-bot)_
 -   [`e61abc7`](https://github.com/stdlib-js/stdlib/commit/e61abc75775756383a20985c7166f85149ee0b68) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`886e85a`](https://github.com/stdlib-js/stdlib/commit/886e85abd4bd0515526e273919b43e00a93d7264) - **docs:** fix C lint errors [(#5408)](https://github.com/stdlib-js/stdlib/pull/5408) _(by Neeraj Pathak)_
 -   [`1470a6b`](https://github.com/stdlib-js/stdlib/commit/1470a6be2bd0ff7d1daedd6b893d72c13fd2db89) - **refactor:** update `stats/base/dvarm` native addon from C++ to C [(#4400)](https://github.com/stdlib-js/stdlib/pull/4400) _(by Vivek Maurya)_
@@ -42,10 +53,11 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 5 people contributed to this release. Thank you to the following contributors:
+A total of 6 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
+-   Gururaj Gurram
 -   Neeraj Pathak
 -   Philipp Burckhardt
 -   Vivek Maurya
