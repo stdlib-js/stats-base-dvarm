@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`56d00d0`](https://github.com/stdlib-js/stdlib/commit/56d00d08cebb16cfc54062d5295a348aa0838535) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`92ef3fd`](https://github.com/stdlib-js/stdlib/commit/92ef3fd22836e7f55affb0e86a4e36df285a6e37) - **feat:** add C ndarray interface and refactor implementation for `stats/base/dvarm` [(#7269)](https://github.com/stdlib-js/stdlib/pull/7269) _(by Gururaj Gurram, Athan Reines, stdlib-bot)_
 -   [`e61abc7`](https://github.com/stdlib-js/stdlib/commit/e61abc75775756383a20985c7166f85149ee0b68) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`886e85a`](https://github.com/stdlib-js/stdlib/commit/886e85abd4bd0515526e273919b43e00a93d7264) - **docs:** fix C lint errors [(#5408)](https://github.com/stdlib-js/stdlib/pull/5408) _(by Neeraj Pathak)_
